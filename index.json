@@ -1,0 +1,26 @@
+[
+  {
+    "slug": "another-mock-post",
+    "title": "Another Sample Post With Lorem Ipsum",
+    "date": "2023-12-20",
+    "description": "Another sample blog post with lorem ipsum text for testing purposes",
+    "tags": ["example","mock","lorem"]
+  }
+,
+  {
+    "slug": "mock-blog-post",
+    "title": "Mock Blog Post with Lorem Ipsum",
+    "date": "2023-12-15",
+    "description": "A sample blog post filled with lorem ipsum text for demonstration purposes",
+    "tags": ["sample","demo","lorem-ipsum"]
+  }
+,
+  {
+    "slug": "third-mock-post",
+    "title": "Technical Deep Dive with Lorem Ipsum",
+    "date": "2024-01-05",
+    "description": "A technical tutorial style post filled with lorem ipsum content",
+    "tags": ["technical","tutorial","guide"]
+  }
+
+]
