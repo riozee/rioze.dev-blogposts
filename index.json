@@ -1,26 +1,80 @@
 [
   {
-    "slug": "another-mock-post",
-    "title": "Another Sample Post With Lorem Ipsum",
-    "date": "2023-12-20",
-    "description": "Another sample blog post with lorem ipsum text for testing purposes",
-    "tags": ["example","mock","lorem"]
+    "slug": "hidden-travel-gems",
+    "translations": {
+      "en": {
+        "title": "Hidden Travel Gems Around the World",
+        "date": "2024-05-20",
+        "description": "Discover lesser-known but breathtaking travel destinations that deserve more attention",
+        "tags": ["travel","destinations","adventure","culture"]
+      }
+,
+      "id": {
+        "title": "Permata Wisata Tersembunyi di Seluruh Dunia",
+        "date": "2024-05-20",
+        "description": "Temukan destinasi wisata yang kurang dikenal namun memukau yang layak mendapat perhatian lebih",
+        "tags": ["wisata","destinasi","petualangan","budaya"]
+      }
+,
+      "ja": {
+        "title": "世界の隠れた旅行スポット",
+        "date": "2024-05-20",
+        "description": "あまり知られていないが息をのむほど美しい、もっと注目されるべき旅行先を発見しましょう",
+        "tags": ["旅行","観光地","冒険","文化"]
+      }
+    }
   }
 ,
   {
-    "slug": "mock-blog-post",
-    "title": "Mock Blog Post with Lorem Ipsum",
-    "date": "2023-12-15",
-    "description": "A sample blog post filled with lorem ipsum text for demonstration purposes",
-    "tags": ["sample","demo","lorem-ipsum"]
+    "slug": "mock-post",
+    "translations": {
+      "en": {
+        "title": "Sample Blog Post",
+        "date": "2024-05-10",
+        "description": "This is a sample blog post to demonstrate multilingual content",
+        "tags": ["sample","demo","multilingual"]
+      }
+,
+      "id": {
+        "title": "Contoh Postingan Blog",
+        "date": "2024-05-10",
+        "description": "Ini adalah contoh postingan blog untuk mendemonstrasikan konten multibahasa",
+        "tags": ["contoh","demo","multibahasa"]
+      }
+,
+      "ja": {
+        "title": "サンプルブログ投稿",
+        "date": "2024-05-10",
+        "description": "これは多言語コンテンツを実演するためのサンプルブログ投稿です",
+        "tags": ["サンプル","デモ","多言語"]
+      }
+    }
   }
 ,
   {
-    "slug": "third-mock-post",
-    "title": "Technical Deep Dive with Lorem Ipsum",
-    "date": "2024-01-05",
-    "description": "A technical tutorial style post filled with lorem ipsum content",
-    "tags": ["technical","tutorial","guide"]
+    "slug": "tech-trends-2024",
+    "translations": {
+      "en": {
+        "title": "Emerging Tech Trends in 2024",
+        "date": "2024-05-15",
+        "description": "Exploring the most promising technology trends shaping our future",
+        "tags": ["technology","ai","trends","future"]
+      }
+,
+      "id": {
+        "title": "Tren Teknologi yang Berkembang di 2024",
+        "date": "2024-05-15",
+        "description": "Mengeksplorasi tren teknologi paling menjanjikan yang membentuk masa depan kita",
+        "tags": ["teknologi","ai","tren","masa depan"]
+      }
+,
+      "ja": {
+        "title": "2024年における新興テクノロジートレンド",
+        "date": "2024-05-15",
+        "description": "私たちの未来を形作る最も有望なテクノロジートレンドを探る",
+        "tags": ["テクノロジー","AI","トレンド","未来"]
+      }
+    }
   }
 
 ]
