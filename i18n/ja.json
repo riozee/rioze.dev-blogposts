@@ -1,3 +1,7 @@
 {
-  "HI": "こんにちは"
+  "/(main)  DESCRIPTION": "ようこそ、私のデジタル公園へ -- 成長・共有・反省のための場所。",
+  "/(main)  READ BLOG BTN": "私のメモ",
+  "/blog(main)  NOT FOUND": "ノーメモ :(",
+  "/blog(sidebar)  TAGS": "タグ",
+  "DESCRIPTION": "ようこそ、私のデジタル公園へ -- 成長・共有・反省のための場所。"
 }

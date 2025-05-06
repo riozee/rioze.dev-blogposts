@@ -1,3 +1,7 @@
 {
-  "HI": "Hello"
+  "/(main)  DESCRIPTION": "Welcome to my digital garden -- a space to grow, share, and reflect.",
+  "/(main)  READ BLOG BTN": "Read my blog",
+  "/blog(main)  NOT FOUND": "No posts :(",
+  "/blog(sidebar)  TAGS": "Tags",
+  "DESCRIPTION": "Welcome to my digital garden -- a space to grow, share, and reflect."
 }

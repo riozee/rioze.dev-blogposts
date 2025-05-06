@@ -1,3 +1,7 @@
 {
-  "HI": "Hai"
+  "/(main)  DESCRIPTION": "Selamat datang di ruang digital-ku -- tempat buat berbagi perspektif lewat tulisan.",
+  "/(main)  READ BLOG BTN": "Baca tulisan-tulisanku",
+  "/blog(main)  NOT FOUND": "Gak ada postingan :(",
+  "/blog(sidebar)  TAGS": "Tag",
+  "DESCRIPTION": "Selamat datang di ruang digital-ku -- tempat buat berbagi perspektif lewat tulisan."
 }
